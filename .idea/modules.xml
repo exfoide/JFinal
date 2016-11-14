@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrutsDemo/StrutsDemo.iml" filepath="$PROJECT_DIR$/StrutsDemo/StrutsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal_blog/jfinal_blog.iml" filepath="$PROJECT_DIR$/jfinal_blog/jfinal_blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal_demo/jfinal_demo.iml" filepath="$PROJECT_DIR$/jfinal_demo/jfinal_demo.iml" />
+    </modules>
+  </component>
+</project>

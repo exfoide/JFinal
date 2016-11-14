@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jfinal_blog/src/main/java/blog/validator/BlogValidator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog/src/main/java/com/demo/blog/validator/BlogValidator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog/src/main/webapp/common/_layout.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog/src/main/webapp/common/_layout.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog_demo/WebRoot/common/_layout.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog_demo/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jfinal_blog_demo/src/com/demo/blog/validator/BlogValidator.java" charset="UTF-8" />
+  </component>
+</project>
